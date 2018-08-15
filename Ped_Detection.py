@@ -11,7 +11,7 @@ import cv2
 import requests
 
 # Replace the URL with your own IPwebcam shot.jpg IP:port
-url="http://192.168.43.1:8080/shot.jpg"
+url="/shot.jpg"
  
 # construct the argument parse and parse the arguments
 #ap = argparse.ArgumentParser()
